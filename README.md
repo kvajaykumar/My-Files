@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Ajay GitHub! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/kvajaykumar/My-Files/blob/main/AI%20ML.gif" alt="banner" width="150">
+  <img src="https://github.com/kvajaykumar/My-Files/blob/main/AI%20ML.gif" alt="banner" width="200">
 </p>
 
 <h3 align="center">Senior MIS Executive |  Data Science Enthusiast</h3>
